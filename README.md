@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I’m currently learning for my AWS Cloud Practiti
 ## 📌 Current Goals
 
 - ☁️ AWS Cloud Practitioner certification (by July 2025)
-- 🔐 More small security tools (IAM audit, bucket hardening, logging)
+- 🔐 Deepen my AWS knowledge by building small projects
 - ⚙️ Improve infrastructure-as-code with Terraform & AWS CLI
 
 ---
