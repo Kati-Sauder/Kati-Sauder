@@ -29,9 +29,6 @@ Welcome to my GitHub profile! I’m currently learning for my AWS Cloud Practiti
 
 ## 📂 Featured Projects
 
-### 🔐 S3 Security Scanner (AWS Lambda + SNS)
-> A serverless tool that scans S3 buckets for public access and missing encryption, then sends alerts via SNS.
-[View the repo →](placeholder here, will be finished soon)
 
 ### 🌐 AWS GroceryMate App - Project from Masterschool's Cloud track
 > The repository focuses on the infrastructure aspects of the GroceryMate application — including modular components such as ALB, ASG, Lambda, RDS, and more.
@@ -44,7 +41,7 @@ Welcome to my GitHub profile! I’m currently learning for my AWS Cloud Practiti
 - ☁️ AWS Cloud Practitioner certification (by end of July 2025)
 - 🔐 Learn more about security tools like IAM audit, bucket hardening, logging
 - 💡 Deepen my AWS knowledge by building small projects (next up: SNS, SQS, EventBridge, Lambda)
-- ⚙️ Improve infrastructure-as-code with Terraform & AWS CLI
+- ⚙️ Improve infrastructure-as-code with Terraform 
 
 ---
 
