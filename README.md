@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I’m currently learning for my AWS Cloud Practiti
 
 ### 🌐 AWS GroceryMate App - Project from Masterschool's Cloud track
 > The repository focuses on the infrastructure aspects of the GroceryMate application — including modular components such as ALB, ASG, Lambda, RDS, and more.
-[View the repo →]([https://github.com/your-username/aws-url-shortener](https://github.com/Kati-Sauder/AWS_grocery))
+[View the repo →](https://github.com/your-username/aws-url-shortener](https://github.com/Kati-Sauder/AWS_grocery)
 
 ---
 
