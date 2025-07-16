@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I’m currently learning for my AWS Cloud Practiti
 [View the repo →](https://github.com/your-username/aws-url-shortener](https://github.com/Kati-Sauder/AWS_grocery))
 
 
-> ### 🚫 AWS Smart S3 Upload Scanner with Alerting
+### 🚫 AWS Smart S3 Upload Scanner with Alerting
 > This project automatically checks images that are uploaded to an S3 bucket. The content is analyzed with the help of Amazon Rekognition. If inappropriate content is detected, an e-mail notification is sent via SNS.
 [View the repo →](https://github.com/your-username/aws-url-shortener](https://github.com/Kati-Sauder/Smart-S3-Upload-Scanner-with-Alerting))
 
