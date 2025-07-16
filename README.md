@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I’m currently learning for my AWS Cloud Practiti
 
 
 ### 🚫 AWS Smart S3 Upload Scanner with Alerting
-> This project automatically checks images that are uploaded to an S3 bucket. The content is analyzed with the help of Amazon Rekognition. It labels the images (car, person, cat, etc.) and if inappropriate content (violence, drugs, nudity, etc.) is detected, an e-mail notification is sent via SNS.
+> This project automatically checks images that are uploaded to an S3 bucket. The content is analyzed with the help of Amazon Rekognition. It labels the images (car, person, cat, etc.) and detects inappropriate content (violence, drugs, nudity, etc.). After that, the images are being sorted into 2 different buckets: verified and quarantined.
 [View the repo →](https://github.com/your-username/aws-url-shortener](https://github.com/Kati-Sauder/Smart-S3-Upload-Scanner-with-Alerting))
 
 ---
