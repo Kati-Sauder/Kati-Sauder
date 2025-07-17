@@ -32,12 +32,12 @@ Welcome to my GitHub profile! I’m currently learning for my AWS Cloud Practiti
 
 ### 🌐 AWS GroceryMate App - Project from Masterschool's Cloud track
 > The repository focuses on the infrastructure aspects of the GroceryMate application — including modular components such as ALB, ASG, Lambda, RDS, and more.
-[View the repo →](https://github.com/your-username/aws-url-shortener](https://github.com/Kati-Sauder/AWS_grocery))
+[View the repo →](https://github.com/Kati-Sauder/AWS_grocery)
 
 
 ### 🚫 AWS Smart S3 Upload Scanner with Alerting
 > This project automatically checks images that are uploaded to an S3 bucket. The content is analyzed with the help of Amazon Rekognition. It labels the images (car, person, cat, etc.) and detects inappropriate content (violence, drugs, nudity, etc.). After that, the images are being sorted into 2 different buckets: verified and quarantined.
-[View the repo →](https://github.com/your-username/aws-url-shortener](https://github.com/Kati-Sauder/Smart-S3-Upload-Scanner-with-Alerting))
+[View the repo →](https://github.com/Kati-Sauder/Smart-S3-Upload-Scanner-with-Alerting)
 
 ---
 
